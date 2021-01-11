@@ -88,26 +88,20 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "test@example.org"
-phone = "888 888 88 88"
+email = "wangzeyu1999@yeah.net"
+phone = "+86-15533507972"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "450 Serra Mall", city = "Stanford", region = "CA", postcode = "94305", country = "United States", country_code = "US"}
+address = {street = "Nonglin Second Street", city = "Harbin", region = "", postcode = "150000", country = "China", country_code = "CN"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "37.4275", longitude = "-122.1697"}
-
-# Directions for visitors to locate you.
-directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
+coordinates = {latitude = "39.92375", longitude = "119.55583"}
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
-
-# Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
+office_hours = ["Weekdays 09:00 to 18:00"]
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
